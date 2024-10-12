@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestOperatorsOverloading" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-08-28T14:05:01" hostname="necalli.local" time="0.002">
+  <properties/>
+  <testcase name="testOneMonth" classname="TestOperatorsOverloading" time="0.001"/>
+  <testcase name="testAddOneTimeInterval" classname="TestOperatorsOverloading" time="0.0"/>
+  <testcase name="testMonthChange" classname="TestOperatorsOverloading" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
